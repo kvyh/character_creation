@@ -1,3 +1,5 @@
+"""created using https://www.appsilon.com/post/shiny-for-python-deploy-github-pages tutorial"""
+
 from shiny import ui, render, App
 import numpy as np
 import matplotlib.pyplot as plt
